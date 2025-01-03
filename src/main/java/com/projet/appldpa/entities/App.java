@@ -1,4 +1,4 @@
-package com.projet.appcnss.entities;
+package com.projet.appldpa.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
