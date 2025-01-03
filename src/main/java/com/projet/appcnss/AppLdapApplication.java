@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class AppCnssApplication {
+public class AppLdapApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AppCnssApplication.class, args);
+        SpringApplication.run(AppLdapApplication.class, args);
     }
 //   @Bean
 //    CommandLineRunner commandLineRunner(AppRepository appRepo){
