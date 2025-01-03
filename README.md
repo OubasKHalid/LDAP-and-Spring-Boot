@@ -1,4 +1,4 @@
-#LDAP and JWT Authentication in Spring Boot with Active Directory on Windows Server
+# LDAP and JWT Authentication in Spring Boot with Active Directory on Windows Server
 Implementing LDAP (Lightweight Directory Access Protocol) and JWT (JSON Web Token) authentication in a Spring Boot application involves a series of steps, from project setup to deployment. This guide outlines the essential steps for a GitHub-hosted project, excluding specific code snippets.
 
 1. Understanding the Requirements
